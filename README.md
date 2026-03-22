@@ -1,16 +1,50 @@
-## Hi there 👋
+[![Qiita](https://img.shields.io/badge/Qiita-mono__tec-green)](https://qiita.com/mono-tec)
+[![Zenn](https://img.shields.io/badge/Zenn-mono__tec-blue)](https://zenn.dev/mono_tec)
 
-<!--
-**mono-tec/mono-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm mono-tec
 
-Here are some ideas to get you started:
+製造業の現場とITをつなぐエンジニアです。  
+現場で得た知見を、構造化・再現可能な形で発信しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Focus
+
+- 製造業 × IT（FA・PLC・データ連携）
+- プロジェクトマネジメント / 構造整理
+- ChatGPTを活用した業務改善
+
+---
+
+## 🛠 Tech Stack
+
+- C# / .NET
+- Python
+- PostgreSQL
+- TypeScript
+- PowerShell / Batch
+
+---
+
+## ✍️ Articles
+
+- 🟢 Qiita  
+  https://qiita.com/mono-tec
+
+- 🔵 Zenn  
+  https://zenn.dev/mono_tec
+
+---
+
+## 🚀 Projects
+
+- OcrLogTemplate（Android OCRログ解析ツール / 画像→テキスト→CSV出力）
+- AIVisionBox（画像処理・AI検証環境）
+- プロジェクトマネジメント / 構造整理（現場調整・設計）
+
+---
+
+## 📈 Activity
+
+現場の課題を「構造」として捉え、  
+再現可能な形で整理・発信しています。
