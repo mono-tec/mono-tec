@@ -26,6 +26,22 @@
 
 ---
 
+## 🚀 Projects / Apps
+
+- **Mono Tec LP**  
+  実務で使えるアプリと技術知見を整理したポートフォリオ  
+  https://mono-tec.github.io/mono-tec-lp/
+
+- **FieldOCRLogger**  
+  現場記録を補助するOCRベースの入力支援アプリ  
+  https://mono-tec.github.io/FieldOCRLogger/
+
+- OcrLogTemplate（Android OCRログ解析ツール / 画像→テキスト→CSV出力）
+- AIVisionBox（画像処理・AI検証環境）
+- プロジェクトマネジメント / 構造整理（現場調整・設計）
+
+---
+
 ## ✍️ Articles
 
 - 🟢 Qiita  
@@ -33,14 +49,6 @@
 
 - 🔵 Zenn  
   https://zenn.dev/mono_tec
-
----
-
-## 🚀 Projects
-
-- OcrLogTemplate（Android OCRログ解析ツール / 画像→テキスト→CSV出力）
-- AIVisionBox（画像処理・AI検証環境）
-- プロジェクトマネジメント / 構造整理（現場調整・設計）
 
 ---
 
