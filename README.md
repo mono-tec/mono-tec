@@ -30,11 +30,11 @@
 
 - **Apps / Support Hub**  
   公開アプリ一覧・サポート・プライバシーポリシー  
-  https://mono-tec.github.io/mono-tec-apps/
+  https://apps.mono-tec.com
   
 - **Mono Tec LP**  
   実務で使えるアプリと技術知見を整理したポートフォリオ  
-  https://mono-tec.github.io/mono-tec-lp/
+  https://lp.mono-tec.com
 
 - OcrLogTemplate（Android OCRログ解析ツール / 画像→テキスト→CSV出力）
 - AIVisionBox（画像処理・AI検証環境）
