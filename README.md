@@ -26,6 +26,24 @@
 
 ---
 
+## 📦 Repository Rules
+
+※ 現在整理中
+
+GitHub Repository は用途ごとに Prefix を整理しています。
+
+| Prefix | Purpose |
+|---|---|
+| `mono-app-*` | 実運用アプリ |
+| `mono-site-*` | 公開サイト / Cloudflare Pages |
+| `mono-template-*` | GitHub Template Repository（Fork前提） |
+| `mono-sample-*` | 学習・検証・最小成功キット |
+| `mono-lib-*` | 共通ライブラリ |
+| `mono-docs-*` | ドキュメント |
+| `mono-infra-*` | IaC / Infrastructure |
+
+---
+
 ## 🚀 Projects / Apps
 
 - **Apps / Support Hub**  
